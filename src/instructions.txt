@@ -1,0 +1,11 @@
+Create a new view called Contact
+
+1. Build the Component
+2. Build the Route
+3. Add the Navigation bar link
+
+            Router
+               |
+              App
+           /   |   \
+        Home  About Component
